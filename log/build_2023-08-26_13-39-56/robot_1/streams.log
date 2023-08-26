@@ -1,0 +1,29 @@
+[0.007s] Invoking command in '/home/andrew/2_wheel_robot_ws/build/robot_1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --build /home/andrew/2_wheel_robot_ws/build/robot_1 -- -j24 -l24
+[0.023s] Invoked command in '/home/andrew/2_wheel_robot_ws/build/robot_1' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --build /home/andrew/2_wheel_robot_ws/build/robot_1 -- -j24 -l24
+[0.034s] Invoking command in '/home/andrew/2_wheel_robot_ws/build/robot_1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --install /home/andrew/2_wheel_robot_ws/build/robot_1
+[0.036s] -- Install configuration: ""
+[0.036s] -- Up-to-date: /home/andrew/2_wheel_robot_ws/install/robot_1/share/ament_index/resource_index/package_run_dependencies/robot_1
+[0.036s] -- Up-to-date: /home/andrew/2_wheel_robot_ws/install/robot_1/share/ament_index/resource_index/parent_prefix_path/robot_1
+[0.036s] -- Up-to-date: /home/andrew/2_wheel_robot_ws/install/robot_1/share/robot_1/environment/ament_prefix_path.sh
+[0.037s] -- Up-to-date: /home/andrew/2_wheel_robot_ws/install/robot_1/share/robot_1/environment/ament_prefix_path.dsv
+[0.037s] -- Up-to-date: /home/andrew/2_wheel_robot_ws/install/robot_1/share/robot_1/environment/path.sh
+[0.037s] -- Up-to-date: /home/andrew/2_wheel_robot_ws/install/robot_1/share/robot_1/environment/path.dsv
+[0.037s] -- Up-to-date: /home/andrew/2_wheel_robot_ws/install/robot_1/share/robot_1/local_setup.bash
+[0.037s] -- Up-to-date: /home/andrew/2_wheel_robot_ws/install/robot_1/share/robot_1/local_setup.sh
+[0.037s] -- Up-to-date: /home/andrew/2_wheel_robot_ws/install/robot_1/share/robot_1/local_setup.zsh
+[0.037s] -- Up-to-date: /home/andrew/2_wheel_robot_ws/install/robot_1/share/robot_1/local_setup.dsv
+[0.037s] -- Up-to-date: /home/andrew/2_wheel_robot_ws/install/robot_1/share/robot_1/package.dsv
+[0.037s] -- Up-to-date: /home/andrew/2_wheel_robot_ws/install/robot_1/share/ament_index/resource_index/packages/robot_1
+[0.037s] -- Up-to-date: /home/andrew/2_wheel_robot_ws/install/robot_1/share/robot_1/cmake/robot_1Config.cmake
+[0.037s] -- Up-to-date: /home/andrew/2_wheel_robot_ws/install/robot_1/share/robot_1/cmake/robot_1Config-version.cmake
+[0.037s] -- Up-to-date: /home/andrew/2_wheel_robot_ws/install/robot_1/share/robot_1/package.xml
+[0.037s] -- Up-to-date: /home/andrew/2_wheel_robot_ws/install/robot_1/share/robot_1/config
+[0.037s] -- Up-to-date: /home/andrew/2_wheel_robot_ws/install/robot_1/share/robot_1/config/rviz.rviz
+[0.037s] -- Up-to-date: /home/andrew/2_wheel_robot_ws/install/robot_1/share/robot_1/description
+[0.037s] -- Up-to-date: /home/andrew/2_wheel_robot_ws/install/robot_1/share/robot_1/description/inertial_macros.xacro
+[0.037s] -- Up-to-date: /home/andrew/2_wheel_robot_ws/install/robot_1/share/robot_1/description/robot_core.xacro
+[0.037s] -- Up-to-date: /home/andrew/2_wheel_robot_ws/install/robot_1/share/robot_1/description/robot.urdf.xacro
+[0.037s] -- Up-to-date: /home/andrew/2_wheel_robot_ws/install/robot_1/share/robot_1/launch
+[0.037s] -- Up-to-date: /home/andrew/2_wheel_robot_ws/install/robot_1/share/robot_1/launch/rsp.launch.py
+[0.038s] -- Up-to-date: /home/andrew/2_wheel_robot_ws/install/robot_1/share/robot_1/worlds
+[0.038s] Invoked command in '/home/andrew/2_wheel_robot_ws/build/robot_1' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --install /home/andrew/2_wheel_robot_ws/build/robot_1

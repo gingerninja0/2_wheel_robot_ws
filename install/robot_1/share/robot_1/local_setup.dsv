@@ -1,1 +1,2 @@
-/home/andrew/2_wheel_robot_ws/build/robot_1/ament_cmake_environment_hooks/local_setup.dsv
+source;share/robot_1/environment/ament_prefix_path.sh
+source;share/robot_1/environment/path.sh

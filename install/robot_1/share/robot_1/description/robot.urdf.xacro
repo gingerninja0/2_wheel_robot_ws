@@ -1,1 +1,6 @@
-/home/andrew/2_wheel_robot_ws/src/robot_1/description/robot.urdf.xacro
+<?xml version="1.0"?>
+<robot xmlns:xacro="http://www.ros.org/wiki/xacro" name="robot">
+
+    <xacro:include filename="robot_core.xacro"/>
+    
+</robot>
