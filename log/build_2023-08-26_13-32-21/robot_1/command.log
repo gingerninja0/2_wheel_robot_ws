@@ -1,0 +1,6 @@
+Invoking command in '/home/andrew/2_wheel_robot_ws/build/robot_1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake /home/andrew/2_wheel_robot_ws/src/robot_1 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/andrew/2_wheel_robot_ws/install/robot_1
+Invoked command in '/home/andrew/2_wheel_robot_ws/build/robot_1' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake /home/andrew/2_wheel_robot_ws/src/robot_1 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/andrew/2_wheel_robot_ws/install/robot_1
+Invoking command in '/home/andrew/2_wheel_robot_ws/build/robot_1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --build /home/andrew/2_wheel_robot_ws/build/robot_1 -- -j24 -l24
+Invoked command in '/home/andrew/2_wheel_robot_ws/build/robot_1' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --build /home/andrew/2_wheel_robot_ws/build/robot_1 -- -j24 -l24
+Invoking command in '/home/andrew/2_wheel_robot_ws/build/robot_1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --install /home/andrew/2_wheel_robot_ws/build/robot_1
+Invoked command in '/home/andrew/2_wheel_robot_ws/build/robot_1' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --install /home/andrew/2_wheel_robot_ws/build/robot_1
