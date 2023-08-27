@@ -1285,18 +1285,18 @@
       <pose>-2.48177 -1.80136 0 0 -0 0</pose>
     </model>
     <state world_name='default'>
-      <sim_time>1906 355000000</sim_time>
-      <real_time>1908 229991760</real_time>
-      <wall_time>1693122099 279756609</wall_time>
-      <iterations>1906355</iterations>
+      <sim_time>1954 760000000</sim_time>
+      <real_time>49 406636956</real_time>
+      <wall_time>1693130935 198790714</wall_time>
+      <iterations>48405</iterations>
       <model name='Dumpster'>
-        <pose>2.37413 -9.22379 0.191176 2e-06 0 -0.000301</pose>
+        <pose>2.37413 -9.22379 0.191171 2e-06 -3e-06 -0.000301</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose>2.37413 -9.22379 0.191176 2e-06 0 -0.000301</pose>
+          <pose>2.37413 -9.22379 0.191171 2e-06 -3e-06 -0.000301</pose>
           <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>-3e-06 -0.008806 -0.30535 0.105533 -0.00192 -0</acceleration>
-          <wrench>-3e-06 -0.008806 -0.30535 0 -0 0</wrench>
+          <acceleration>0 0 -9.8 0 -0 0</acceleration>
+          <wrench>0 0 -9.8 0 -0 0</wrench>
         </link>
       </model>
       <model name='Stop Sign'>
@@ -1370,10 +1370,10 @@
         </link>
       </model>
       <model name='mars_rover'>
-        <pose>-2.04198 -5.47874 0 0 -0 0</pose>
+        <pose>-2.04198 -5.47874 0.2 0 -0 0</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose>-2.04198 -5.47874 0 0 -0 0</pose>
+          <pose>-2.04198 -5.47874 0.2 0 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
@@ -1395,7 +1395,7 @@
     </state>
     <gui fullscreen='0'>
       <camera name='user_camera'>
-        <pose>8.35837 -14.4336 13.3844 0 0.565797 2.14604</pose>
+        <pose>11.1165 -16.6416 22.9523 -0 0.889797 2.23804</pose>
         <view_controller>orbit</view_controller>
         <projection_type>perspective</projection_type>
       </camera>
